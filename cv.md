@@ -21,6 +21,7 @@ I am a responsible person, always ready to learn new things. Worked as an engine
 * Bachelor, Belarusian National Technical University, technical maintenance of safety
 ****
 ## Experience 
+Worked as an security engineer.
 [CV](https://github.com/VictoriaGorobets/rsschool-cv) 
 ****
 ## English

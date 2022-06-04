@@ -24,6 +24,6 @@ I am a responsible person, always ready to learn new things. Worked as an engine
 [CV](https://github.com/VictoriaGorobets/rsschool-cv) 
 ****
 ## English
-A2
+A2-B1
 ****
 ![](https://avatars.githubusercontent.com/u/106545511?s=400&u=07d521c4e542b7d9195d3ac82cb2225c530386a6&v=4)

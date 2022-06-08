@@ -1,0 +1,47 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: green;
+}
+
+.content {
+    background-color: blue;
+    width: 70%;
+    height: 100%;
+    margin: auto;
+}
+
+.navigation {
+    width: 100%;
+    height: 10%;
+    background-color: blueviolet;
+}
+
+.personal-info {
+    width: 100%;
+    height: 80%;
+    display: flex;
+}
+
+.left-block {
+    width: 70%;
+    height: 100%;
+    background-color: red;
+}
+
+.right-block {
+    width: 30%;
+    height: 100%;
+    background-color: yellow;
+}
+
+.footer {
+    height: 10%;
+    width: 100%;
+    background-color: aqua;
+}

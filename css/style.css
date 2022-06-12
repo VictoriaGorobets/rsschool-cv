@@ -1,0 +1,144 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #fff0dc;
+}
+
+.content {
+    width: 70%;
+    height: 100%;
+    margin: auto;
+}
+
+.header {
+    width: 100%;
+    background-color: bisque;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.user-image {
+    height: 250px;
+    border-radius: 50%;
+}
+
+.user-info {
+    height: 100%;
+    text-align: center;
+    font-family: fantasy;
+    color: #876035;
+}
+
+.user-name {
+    font-size: 50px;
+    font-weight: normal;
+}
+
+.user-title {
+    font-size: 25px;
+    font-weight: normal;
+}
+
+.navigation {
+    width: 100%;
+    height: 5%;
+    background-color: #ebcca9;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.navigation a {
+    color: #876035;
+    text-decoration-color: #ebcca9;
+    font-size: 25px;
+}
+
+.personal-info {
+    width: 100%;
+    display: flex;
+}
+
+.left-block {
+    width: 70%;
+    background-color: #FAEBD7;
+}
+
+.info-block-header {
+    color: #5c3d1c;
+    font-weight: bold;
+    font-size: 35px;
+    text-align: center;
+}
+
+.info-block-paragraph {
+    color: #5c3d1c;
+    font-weight: revert;
+    font-size: 25px;
+    margin: 10px;
+    text-align: left;
+}
+
+.language a {
+    color: #5c3d1c
+}
+
+.code-example {
+    display: flex;
+    flex-direction: column;
+    font-size: 25px;
+    background-color: #ebcca9;
+    padding: 20px;
+}
+
+.project-link {
+    color: #5c3d1c;
+    font-weight: revert;
+    font-size: 30px;
+    margin: 10px;
+    text-align: center;
+}
+
+.right-block {
+    width: 30%;
+    background-color: #FFE4C4;
+}
+
+.language {
+    color: #5c3d1c;
+    font-weight: revert;
+    font-size: 25px;
+    margin: 10px;
+    text-align: left;
+}
+
+.footer {
+    height: 10%;
+    width: 100%;
+    background-color: #ebcca9;
+    justify-content: space-around;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.copyright {
+    font-size: 25px;
+    margin: 20px;
+}
+
+.footer a {
+    font-size: 25px;
+    margin: 20px;
+    color: #000000;
+}
+
+.rs-image {
+    float: right;
+}

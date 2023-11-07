@@ -16,6 +16,7 @@ I am a responsible person, always ready to learn new things. Worked as an engine
 ## Skills
 * HTML
 * CSS
+* JS
 ****
 ## Education
 * Bachelor, Belarusian National Technical University, technical maintenance of safety

@@ -21,7 +21,7 @@ I am a responsible person, always ready to learn new things. Worked as an engine
 * Bachelor, Belarusian National Technical University, technical maintenance of safety
 ****
 ## Experience 
-Worked as an security engineer. Now I am a tutor in physics and mathematics
+Worked as an security engineer. Now I am a tutor in physics and mathematics.
 
 **** 
 ## Code Example
